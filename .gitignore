@@ -1,0 +1,32 @@
+# Compiled binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+
+# Build artifacts
+build/
+bin/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE / Editor folders
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
